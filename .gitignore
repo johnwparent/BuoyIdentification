@@ -1,0 +1,12 @@
+/models/
+/annotations/
+/buoy_data/
+/images/
+/images_buoys/
+/result_images/
+__pycache__
+/venv/
+*.tar
+*.gz
+*.h5
+*.exe
